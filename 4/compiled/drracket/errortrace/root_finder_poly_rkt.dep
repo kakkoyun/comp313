@@ -1,0 +1,1 @@
+("5.3.1" ("e4fd3e4080e03d30a1aacf996da4ebbda9b8c41c" . "5fb47298814921a2d2713ae990578ab44b1b8961") (collects #"racket" #"main.rkt") #"/home/rev/School/Comp313/Projects/4/root_finder.rkt" (collects #"test-engine" #"racket-tests.rkt") #"/home/rev/School/Comp313/Projects/4/polynomial.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"lang" #"reader.rkt"))
